@@ -1,0 +1,15 @@
+
+# FILETYPES
+
+*.pyc
+*.xml
+*.egg-info
+
+# DIRECTORIES
+
+__pycache__/
+.idea/
+.ipynb_checkpoints
+
+dist/
+build/
